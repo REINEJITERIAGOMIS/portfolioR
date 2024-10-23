@@ -1,0 +1,60 @@
+#navigation {background-color: rgb(4, 6, 105);
+color: white;
+padding : 2%;
+}
+    
+   a{
+    font-size: 30px;
+   }
+  #logo{
+    width: 5%;
+    margin-right: 70%;
+   margin-right: 20%;
+
+   }
+   #image{
+    position:relative;
+  width: 100%;
+  height:20%
+
+   }
+   h1{
+    text-align: center;
+    color: #030361;}
+
+   .btn {
+    width: 80%;
+    height: 0%;
+    position: relative;
+    color: rgb(239, 165, 86);
+    padding-bottom: 25%;
+   }
+
+   #photo{
+   width:15% ;
+
+   }
+   h4{
+margin-left: 40%;
+margin-top: 15%;
+   }
+   #gestion{
+    width: 22%;
+   }
+   #web{
+    width: 22%;
+   }
+
+   #design{
+    width: 22%;
+   }
+   
+   #marketing{
+    width: 22%;
+   }
+   .aide{
+    justify-content: center;
+    
+   }
+   
+ 
